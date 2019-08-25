@@ -8,4 +8,4 @@ edition = "2018"
 
 [dependencies]
 hs110 = { git = "https://github.com/SvenKube/hs110-rs.git" }
-influent = "0.5.2"
+influx_db_client = "0.3.6"
